@@ -1,4 +1,4 @@
 sierpinski
 ==========
 
-make's a sierpinski triangle of a user-specified height
+draw a sierpinski triangle of a user-specified height
