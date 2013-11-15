@@ -1,7 +1,6 @@
 numGens = int(raw_input("how many generations? (enter an integer)"))
 G1 = [0 , 1, 0]
 rules = {7:0, 6:0, 5:0, 4:1, 3:0, 2:0, 1:1, 0:0}
-#print G1
 G2 = []
 output = ''
 baselength = len(G1) + numGens * 2
